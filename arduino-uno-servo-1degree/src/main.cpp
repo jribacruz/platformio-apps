@@ -1,5 +1,6 @@
 // Include the Servo library
 #include <Servo.h>
+#include <Arduino.h>
 // Declare the Servo pin
 int servoPin = 3;
 // Create a servo object
